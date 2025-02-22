@@ -4,12 +4,9 @@
 
 ### Project Description:
 
-In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table.
+In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table
 
-### Project Architecture:
-
-![Serverless Web Application on AWS Architecture](https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png)
-
+![Serverless Web Application on AWS Architecture]
 ### Steps to Build the Project:
 
 * Create a DynamoDB table to store the items. \
@@ -29,11 +26,8 @@ Link to the documentation: https://docs.google.com/document/d/1FKIs7_yF0D98dHC1D
 
 
 
-Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
-Follow our blog here: https://amonkincloud.com/ \
-Follow my personal blog here:https://dev.to/yeshwanthlm/ \
-Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
-For queries write to us at: amonkincloud@gmail.com 
+
+For queries write to us at: anjudevops01@gmail.com
 
 
 
